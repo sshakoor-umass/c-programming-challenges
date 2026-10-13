@@ -1,0 +1,5 @@
+.vscode/
+*.dSYM/
+*.o
+*.out
+001_second_largest
